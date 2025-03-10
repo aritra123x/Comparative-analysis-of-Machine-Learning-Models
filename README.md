@@ -1,2 +1,2 @@
 # Comparitive-Analysis-Of-Machine-Learning-Models
-In this project comparision and analysis of several machine learning models are done
+This project presents a comparative analysis of 16 machine learning models on a pollution and air quality assessment dataset sourced from Kaggle.
